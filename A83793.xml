@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The orders from the House of Commons for the abolishing of superstition, and innovavation [sic], in the regulating of church affaires. 1. Concerning the communion table. 1 [sic]. Concerning the Sabbath day. 3. Concerning images. September, 1, 1641.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83793</idno><idno type="EEBO-CITATION">99873561</idno>
+  <idno type="VID">157043</idno>
+  <idno type="EEBO-PROQUEST">2240952884</idno>
+  
+            <idno type="STC">Wing E2674</idno>
+            <idno type="STC">Thomason E171_8</idno>
+            <idno type="STC">ESTC R9499</idno>
+            <idno type="PROQUEST">99873561</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873561e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157043)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E171[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The orders from the House of Commons for the abolishing of superstition, and innovavation [sic], in the regulating of church affaires. 1. Concerning the communion table. 1 [sic]. Concerning the Sabbath day. 3. Concerning images. September, 1, 1641.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term type="topical_term">Lord's Supper --  Church of England --  Early works to 1800</term>
+               <term type="topical_term">Sunday legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157043:1"/>
+            <pb facs="tcp:157043:1"/>
+            <p>THE ORDERS FROM THE HOVSE OF COMMONS FOR THE Abolishing of <hi>Superstition,</hi> and <hi>Innova<g ref="char:EOLhyphen"/>vation,</hi> in the Regulating of Church Affaires.</p>
+            <list>
+               <item>1. Concerning the <hi>Communion Table.</hi>
+               </item>
+               <item>1. Concerning the <hi>Sabbath day.</hi>
+               </item>
+               <item>3. Concerning <hi>Images.</hi>
+               </item>
+            </list>
+            <p>September, 1, 1641.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles, all of these figures enclosed within a rectangle flanked by angel on the left and right, used as a printer's device</figDesc>
+            </figure>
+            <p>LONDON, Printed by B. ALSOP, 1641.</p>
+            <pb facs="tcp:157043:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:157043:2"/>
+            <head>ORDERS FROM THE HOUSE OF COMMONS.</head>
+            <head type="sub">
+               <list>
+                  <item>1 Concerning the Communion-table.</item>
+                  <item>2 Concerning the Sabboth Day.</item>
+                  <item>3 Concerning Images.</item>
+               </list>
+            </head>
+            <p>
+               <list>
+                  <item>I. <hi>
+                        <seg rend="decorInit">T</seg>HAT</hi> the Communion table should stand East &amp; VVest (as for<g ref="char:EOLhyphen"/>merly) &amp; that the Railes about it should be pulled downe.</item>
+                  <item>II. That all Games, &amp; liberty of pastime on the Lords day, should be prohibited, and that Notice thereof should forthwith bee gi<g ref="char:EOLhyphen"/>ven throughout the Kingdome.</item>
+                  <item>III. That all pictures, and <hi>Images</hi> of Christ, the Ʋirgin Mary, and the like, in Churches, Chappels, or Chancels, should bee taken away.</item>
+               </list>
+            </p>
+            <p>So farre the Orders.</p>
+            <pb n="2" facs="tcp:157043:3"/>
+            <p> Now that these Orders are warrantable by the <hi>Touch-stone</hi> of Gods Word, and such as tend to the establishing of a glo<g ref="char:EOLhyphen"/>rious <hi>Church,</hi> may easily be proved.</p>
+            <div n="1" type="part">
+               <head>1. Concerning the <hi>Communion Table.</hi>
+               </head>
+               <p>THat the Communion table should stand East and West, (as formerly) rather then <hi>North,</hi> and <hi>South,</hi> and should not be permitted to be Railed in, <hi>is an Order warrantable &amp; becomming the Church of</hi> God. 1 Cor. 10. 21. The Reason whereof is so cleare, that it cannot be denyed: Namely, <hi>Be<g ref="char:EOLhyphen"/>cause thereby is an abolishing of a Popish, superstitious Innova<g ref="char:EOLhyphen"/>tion▪</hi> Popish Altars standing <hi>North, &amp; South,</hi> wherein Christ is sacrificed again in an unbloudy manner; for sinnes of the quick in Earth, and of the Dead in Purgatory: these were creeping into our Churches; but the Lord hath prevented them by those wise Senators, <hi>whom God hath called to abolish such superstitious Innovations, knowing that wee have an</hi> Altar <hi>whereof such stubborne</hi> Ceremonists, <hi>is the former Canonists, have no right to serve. Heb.</hi> 13▪ 10. Even the Doctrine of free salvation by Christ crucifyed.</p>
+               <p>Againe, we may argue thus.</p>
+               <p n="1">1. <hi>That warrantable Discipline, used in the primitive church, being practised in our churches; it is a superstitious Innovati<g ref="char:EOLhyphen"/>on, to bring in any Popish <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>te to frustrate the same thereby. But the</hi> Communion table, <hi>according to the Discipltne of the pri<g ref="char:EOLhyphen"/>mitive church, is to stand not North, and South, nor to be railed in, but to stand open, East and VVest, as a table.</hi>
+               </p>
+               <p>Therefore it is an Innovation of Popish superstition, to cause the same to be turned Altar-wise, <hi>North and South.</hi>
+               </p>
+               <p n="2">2. I argue againe.</p>
+               <p>
+                  <hi>That custome which is used no where amongst the Protestant churches, but common amongst the <hi>Papists,</hi> to bring in any such Discipline into our churches, it is to bring in <hi>Popish Innovati<g ref="char:EOLhyphen"/>on,</hi> and <hi>superstition:</hi> But so to make an Altar of the <hi>Commu<g ref="char:EOLhyphen"/>nion
+<pb n="3" facs="tcp:157043:3"/> table,</hi> is a custome no where used amongst the <hi>Protestant</hi> churches, but common amongst the <hi>Papists.</hi>
+                  </hi>
+               </p>
+               <p>Therefore such superstitious Altars, is an Innovation, worthily rejected by that Honourable Assembly? Of which Reformation we may say with the Prophet Esay. <hi>By this therefore shall the iniquity of <hi>Jacob</hi> be purged, and this is all the fruit, the taking away of his sinne, when hee shall make all the stones of the <hi>Altars,</hi> as chalke stones broken in peeces, that the <hi>Groves and Images</hi> may not stand up. Isay</hi> 27. 9. Where we see that God doth not onely condemn Images, and Idols (as <hi>Calvin</hi> saith upon the place) but whatsoever is invented without the prescript of Gods Word: whence it followes, that all such will-worship is rejected of God: a good War<g ref="char:EOLhyphen"/>rant to maintaine this worthy Order.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. Concerning the sabbath day.</head>
+               <p>THat all Games, and liberty of Pastime on the Lords day should be prohibited, and that notice thereof should be given <hi>forthwith throughout the Kingdome.</hi>
+               </p>
+               <p>
+                  <hi>To breake the sabbath by pastime, or some servile worke, or any thing forbidden, is a great offence against the Ordinance of <hi>God.</hi> Nehemiah</hi> 13. 17.</p>
+               <p>
+                  <hi>The sabbath day, is a day of rest, a time set a part for holy practises, a time of cessation and rest from our own workes, wills, wayes, and words. Isay</hi> 58. 13.</p>
+               <p>
+                  <hi>This Order is of great consequence; for the whole delight of our soules, ought to be referred unto God above, on the sab<g ref="char:EOLhyphen"/>bath day;</hi> For there is nothing which pleaseth God better, or is more acceptable unto him, then the true observation of the sabbath, and his pure worship: And indeed the true ob<g ref="char:EOLhyphen"/>servation of the sabbath depends on the renouncing of our selves, and in the sanctifying of the whole man unto GOD; where it is worth the noteing, that in the true observation of the sabbath.</p>
+               <pb n="4" facs="tcp:157043:4"/>
+               <p> First, The will must be layed as the Foundation, <hi>which must be taken off from all earthly things, &amp; be raised up to an higher motion, to serve the Lord in workes of Piety.</hi>
+               </p>
+               <p n="2">2. <hi>The will having chose so good a part, passeth by such infe<g ref="char:EOLhyphen"/>riour things, raising up the soule to an higher pitch, then on the earth, and the glory thereof; and therefore those words &amp; deeds, that now flow from him, are of the same Nature also; because it is uttered from the Conception of the understanding, as the manifestation of the will.</hi>
+               </p>
+               <p n="3">3. <hi>Lastly, then follow the actions, which doubtlesse, looke higher also, then carnall respects; and therefore put off all the Concupiscence of the flesh, and renounce all inordinate affecti<g ref="char:EOLhyphen"/>on, testifying a sincere obedience in the sanctifying of the Lords day.</hi>
+               </p>
+               <p>The Examples of Gods Judgments, on <hi>sabboth-breakers,</hi> set forth the wrathfull displeasure of Almighty God, against such people who will not keepe holy the <hi>sabboth day, Num.</hi> 5. 32. and many stories can testifie.</p>
+               <p>
+                  <hi>VVorthily, therefore, have our Noble Senators done to re<g ref="char:EOLhyphen"/>claime such profanenesse.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>3. <hi>Concerning</hi> Images.</head>
+               <p>THat all Pictures, and Images of <hi>Christ,</hi> the Virgin Mary, and the like, in <hi>Churches, Chappels, or Chancels,</hi> should be taken away. Exod. 20. 4, 5.</p>
+               <p>To make a Picture for divine worship sake, either of God, or of <hi>Christ,</hi> of the Virgin Mary, or the like; <hi>this is diaboli<g ref="char:EOLhyphen"/>call, being made for Religion sake, and utterly unlawfull, and where such</hi> Images <hi>are (as a father saith) there is no Religion.</hi>
+               </p>
+               <p>Let none therefore, be offended at this worthy Order, yet if any amongst us, shall be offended herewith, it is no won<g ref="char:EOLhyphen"/>der at all; for the People tooke offence many of them, at <hi>Christs</hi> own <hi>preaching.</hi> Joh. 6. But <hi>Christ</hi> preached still, untill He perfected the work; <hi>whosoever doth the will of God, hee needeth not to feare the peoples taking offence at it; But whoso<g ref="char:EOLhyphen"/>ever
+<pb n="5" facs="tcp:157043:4"/> is offended at the full doing of the will of God, hee sinneth both against God, and against his Neighbor.</hi>
+               </p>
+               <p>It is not unknown unto Us all, if we will understand, what a number of weighty, and perswasive Reasons, did together move this Honourable Assembly, to passe these Orders, not at all any way purposed to compell any mans Conscience. For it is most true, <hi>which the Emperour Maximilian the se<g ref="char:EOLhyphen"/>cond was wont to say: That Princes beare rule over their sub<g ref="char:EOLhyphen"/>jects Bodies, but not over their Consciences.</hi> But yet for all this, This Royall Assembly will not have their own Consciences ensnared, and therefore desire to serve the Lord God, &amp; have passed these Orders, according to that cleare <hi>knowledge, wher<g ref="char:EOLhyphen"/>with God hath enlightned them, and according to that his will, which he hath revealed unto them.</hi> For it is certain, 1. <hi>That God will not be honoured, by, through, or before Images,</hi> 1 Joh. 2. 1. <hi>secondly, He will that men break downe all Images; and wholly depend on Him, with all their hearts,</hi> Exod. 34. 13.</p>
+               <p>Whosoever therefore now in the feare of God, doth right<g ref="char:EOLhyphen"/>ly consider hereof, He will not at all be offended at the re<g ref="char:EOLhyphen"/>moving, and casting away of all Images, as before, but he will rather much praise the Name of God, <hi>that the publicke abomination, and great of<g ref="char:EOLhyphen"/>fence is in time removed, and taken away.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
